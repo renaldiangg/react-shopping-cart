@@ -1,0 +1,32 @@
+{
+    "products":[
+        {   "_id":"dress1",
+            "title": "Dress flare scuba",
+            "image": "/images/dress1.jpg",
+            "description": "This is for all the latest trends",
+            "price": 19,
+            "availableSizes": ["X","XL", "XXL"]
+        },
+        {   "_id":"dress2",
+            "title": "Dress Homey",
+            "image": "/images/dress2.jpg",
+            "description": "This is for all the latest trends",
+            "price": 30.9,
+            "availableSizes": ["M", "L", "XL"]
+        },
+        {   "_id":"dress3",
+            "title": "Dress pesta",
+            "image": "/images/dress3.jpg",
+            "description": "This is for all the latest trends",
+            "price": 29.9,
+            "availableSizes": ["X", "M", "L", "XXL"]
+        },
+        {   "_id":"dress4",
+            "title": "Flare midi cotton-dress",
+            "image": "/images/dress4.jpg",
+            "description": "This is for all the latest trends",
+            "price": 39,
+            "availableSizes": ["XL", "XXL"]
+        }
+    ]
+}
