@@ -5,7 +5,7 @@
             "image": "/images/dress1.jpg",
             "description": "This is for all the latest trends",
             "price": 19,
-            "availableSizes": ["X","XL", "XXL"]
+            "availableSizes": ["XS","XL", "XXL"]
         },
         {   "_id":"dress2",
             "title": "Dress Homey",
@@ -19,7 +19,7 @@
             "image": "/images/dress3.jpg",
             "description": "This is for all the latest trends",
             "price": 29.9,
-            "availableSizes": ["X", "M", "L", "XXL"]
+            "availableSizes": ["S", "M", "L", "XXL"]
         },
         {   "_id":"dress4",
             "title": "Flare midi cotton-dress",
